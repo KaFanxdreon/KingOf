@@ -7,7 +7,7 @@ Recode by Ka Fan
 
 ## Install
       $ pkg install php
-      $ git clone https://github.com/KingOf/FacebookUnfriend.git
+      $ git clone https://github.com/KaFanxdreon/KingOf.git
       $ cd FacebookUnfriend
 
 ## Run

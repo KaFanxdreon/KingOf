@@ -1,2 +1,2 @@
-# KingOf
-ho a hok e
+# Simpel Aja Deh
+Itu lah jalan Ninja ku
